@@ -1,3 +1,14 @@
-.nav-link {
-    padding-left: 10%;
+.navbar .navbar-brand{
+    font-size: 80px;
+    color: black;
+}
+
+.navbar .nav-item{
+    position: relative;
+    left: 600px;
+    bottom: 50px;
+}
+
+.btn {
+    font-size: 20px;
 }
