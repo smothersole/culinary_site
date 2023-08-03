@@ -7,9 +7,8 @@
 
 .navbar .nav-item {
     position: relative;
-    left: 700px;
-    bottom: 50px;
-    margin-top: -40px;
+    left: 290%;
+    top: -60px;
 }
 .navbar-custom {
     background-color: rgba(25, 25, 25, 1);
@@ -28,4 +27,13 @@ a:hover {
 
 html body{
     background-image: url(../images/Cook_and_Waiter-20big.jpg);
+}
+
+p {
+    color: white;
+    position: relative;
+    bottom: 400px;
+    left: 10%;
+    background-color: rgba(25, 25, 25, 1);
+    padding: 20px;
 }
